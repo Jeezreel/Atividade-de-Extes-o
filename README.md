@@ -1,3 +1,15 @@
+inclusao-na-rede/
+├── cartilhas/
+│   └── seguranca_programacao_basica.pdf
+├── codigo/
+│   ├── exemplo_python_basico.py
+│   └── logica_programacao.md
+├── videos/
+│   └── links_youtube.txt
+├── infograficos/
+│   └── senha_segura.png
+└── README.md
+
 # 🌐 Oficina de Inclusão Digital – ONG Projeto inclusão na Rede
 
 Este repositório contém os materiais produzidos na oficina **"inclusão na Rede"**, voltada para a inclusão digital de jovens e adultos. O foco é apresentar conceitos básicos de **cibersegurança**, **programação** e **boas práticas online**, por meio de cartilhas, vídeos, infográficos e exemplos de código.
