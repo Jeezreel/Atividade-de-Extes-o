@@ -1,0 +1,2 @@
+- https://www.safernet.org.br
+- https://howsecureismypassword.net
