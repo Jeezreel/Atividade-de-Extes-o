@@ -10,7 +10,7 @@ Este repositório contém os materiais produzidos na oficina **"inclusão na Red
 - `cartilhas/`: PDF interativo sobre segurança digital e programação 
 - `videos/`: Roteiros dos vídeos educativos para YouTube 
 - `infograficos/`: Imagens para redes sociais com dicas visuais 
-- `codigo/`: Exemplos de código em Python e projetos Scratch 
+- `codigo/`: Exemplos de código em Python 
 - `recursos-adicionais/`: Links e materiais complementares
   
 
@@ -20,7 +20,7 @@ Este repositório contém os materiais produzidos na oficina **"inclusão na Red
 
 - Como criar senhas seguras
 - O que é phishing e como evitar golpes
-- Introdução à programação com Python e Scratch
+- Introdução à programação com Python
 - Dicas para proteger sua privacidade online
 
 ---
