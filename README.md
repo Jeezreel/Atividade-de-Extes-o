@@ -7,10 +7,11 @@ Este repositório contém os materiais produzidos na oficina **"inclusão na Red
 ## 📁 Estrutura do Repositório
 
 - `cartilhas/`: PDF interativo sobre segurança digital e programação
-- `videos/`: Roteiros dos vídeos educativos para YouTube
+- `videos/`: Roteiros dos vídeos educativos para YouTube 
 - `infograficos/`: Imagens para redes sociais com dicas visuais
-- `codigo/`: Exemplos de código em Python e projetos Scratch
-- `recursos-adicionais/`: Links e materiais complementares
+- `codigo/`: Exemplos de código em Python e projetos Scratch - 
+- `recursos-adicionais/`: Links e materiais complementares: https://howsecureismypassword.net/ - https://new.safernet.org.br/ - https://www.cursoemvideo.com/course/curso-python-3/
+  
 
 ---
 
