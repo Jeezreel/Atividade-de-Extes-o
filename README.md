@@ -9,7 +9,7 @@ Este repositório contém os materiais produzidos na oficina **"inclusão na Red
 
 - `cartilhas/`: PDF interativo sobre segurança digital e programação 
 - `videos/`: Roteiros dos vídeos educativos para YouTube 
-- `infograficos/`: Imagens para redes sociais com dicas visuais 
+- `infografico/`: Imagem para redes sociais com dicas visuais 
 - `introdução- python/`: Exemplos de código em Python 
 - `recursos-adicionais/`: Links e materiais complementares
   
