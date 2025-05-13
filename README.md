@@ -1,14 +1,3 @@
-inclusao-na-rede/
-├── cartilhas/
-│   └── seguranca_programacao_basica.pdf
-├── codigo/
-│   ├── exemplo_python_basico.py
-│   └── logica_programacao.md
-├── videos/
-│   └── links_youtube.txt
-├── infograficos/
-│   └── senha_segura.png
-└── README.md
 
 # 🌐 Oficina de Inclusão Digital – ONG Projeto inclusão na Rede
 
