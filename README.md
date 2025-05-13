@@ -1,4 +1,4 @@
-# 🌐 Oficina de Inclusão Digital – ONG Projeto inclusão na Rede
+# 🌐 Oficina de Inclusão Digital – ONG Projeto Digital para Todos
 
 Este repositório contém os materiais produzidos na oficina **"Digital para Todos"**, voltada para a inclusão digital de jovens e adultos. O foco é apresentar conceitos básicos de **cibersegurança**, **programação** e **boas práticas online**, por meio de cartilhas, vídeos, infográficos e exemplos de código.
 
